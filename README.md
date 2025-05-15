@@ -1,4 +1,3 @@
-
 # 🦠 COVID-19 Global Data Tracker
 
 This project analyzes global COVID-19 trends such as cases, deaths, and vaccination rollouts using data from [Our World in Data](https://ourworldindata.org/covid-cases).
@@ -23,9 +22,9 @@ This project analyzes global COVID-19 trends such as cases, deaths, and vaccinat
 1. Download the dataset from [OWID GitHub](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
 2. Place the `owid-covid-data.csv` in the same folder as the `.ipynb` or `.py` script
 3. Open the Jupyter Notebook or run the Python script:
-    ```bash
-    python covid19_global_tracker.py
-    ```
+   ```bash
+   python covid19_global_tracker.py
+   ```
 
 ## 💡 Insights
 
@@ -35,4 +34,5 @@ This project analyzes global COVID-19 trends such as cases, deaths, and vaccinat
 - Vaccination progress has a visible impact on new case trends.
 
 ## ✅ Author
-Your Name Here
+
+Oladokun Clement Ololade
